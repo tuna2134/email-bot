@@ -1,6 +1,6 @@
 # gmail-bot
 
-## What can you do
+## What can do this
 
 This can send and get email by gmail.
 
